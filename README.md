@@ -1,4 +1,4 @@
-# Word Count for Redactor
+# Word Count Plugin for Redactor
 
 ## About
 
