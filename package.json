@@ -1,0 +1,26 @@
+{
+  "name": "redactor-wordcount",
+  "version": "1.0.0",
+  "description": "A Redactor plugin that displays the word count under the editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbojinov/redactor-wordcount.git"
+  },
+  "keywords": [
+    "redactor",
+    "plugin",
+    "counter",
+    "word",
+    "count"
+  ],
+  "author": "Petar Bojinov <petarbojinov@gmail.com> (https://github.com/pbojinov)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pbojinov/redactor-wordcount/issues"
+  },
+  "homepage": "https://github.com/pbojinov/redactor-wordcount#readme"
+}
