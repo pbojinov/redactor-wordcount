@@ -14,4 +14,4 @@ This is a plugin for Imperavi's Redactor editor that displays the word count und
 
 This plugin is licensed under MIT. 
 
-[Imperavi's Redactor](http://imperavi.com/redactor) has own license.
+[Imperavi's Redactor](http://imperavi.com/redactor) has its own license.
